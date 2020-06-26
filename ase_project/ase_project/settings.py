@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'finalapp',
     'category_page',
     'myapp',
+    'deploy',
      'rest_framework'
 ]
 
